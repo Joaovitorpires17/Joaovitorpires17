@@ -1,46 +1,59 @@
-# 👋 Olá, eu sou João Vitor De Souza Pires! 🏳️‍🌈  
-
-🎯 Estudante de **Sistemas de Informação** na **UNA**  
-🚀 Buscando oportunidades em **TI**, incluindo **Análise de Dados, Programação e Scrum Master**  
-📍 Mineiro, morando em **Ibirité - MG**  
-
----
+<h1 align="center">
+  🧠 João Vitor De Souza Pires
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E45430&center=true&vCenter=true&width=435&lines=Full+Stack+em+formação;Dev+curioso+e+criativo;Foco+em+Front-end+e+Dados" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo e utilizando:
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="Joao-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+### 🧬 Sobre Mim
+
+> 👨‍💻 Estudante de **Sistemas de Informação** na **UNA**  
+> 🚀 Explorando **Front-end**, **Análise de Dados** e **Scrum**  
+> 🌍 Baseado em **Ibirité - MG** | 🏳️‍🌈 LGBTQIA+ com orgulho  
+> 🧠 Pensamento analítico, criatividade visual e paixão por tecnologia
+
+---
+
+### ⚙️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,figma" />
 </div>
 
 ---
 
-##  Sobre mim 🎌  
-- 🏳️‍🌈 **LGBTQIA+ e orgulho sempre!**  
-- 🎮 Gosto de games, tecnologia e desenvolvimento.  
-- 🎌 **Apaixonado por animes!** Meus favoritos:  
-  - ⚡ **Pokémon**  
-  - 📜 **Black Clover**  
-  - 👑 **Overlord**  
-  - ❄️ **Frieren: Beyond Journey's End**  
-  - ☠️ **One Piece**  
+### 🧠 Curiosidades
+
+- 🎮 Fã de games e cultura geek  
+- 🌀 Animes favoritos: *Frieren*, *One Piece*, *Pokémon*, *Black Clover*, *Overlord*  
+- 💡 Buscando sempre entender o "por quê" por trás do código
 
 ---
 
-## 📫 Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-pires-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-b57814231/)
+### 🔗 Contato & Redes
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-pires-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-b57814231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Joaopires2004@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-E45430?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⚡ **"Sempre aprendendo e evoluindo!"** 🚀  
+### 💬 Frase que me define:
 
+> “Criar com código é transformar criatividade em interação.”  
+> *Visão clara. Execução leve. Resultado funcional.*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaovitorpires17&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorpires17&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
