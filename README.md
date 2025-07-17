@@ -1,5 +1,5 @@
 <h1 align="center">
-  🧠 João Vitor De Souza Pires
+   João Vitor De Souza Pires
 </h1>
 
 <p align="center">
