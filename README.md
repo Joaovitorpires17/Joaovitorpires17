@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/rPhXhyt.gif" alt="Typing GIF" width="435" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 </p>
 
 ---
@@ -54,6 +54,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaovitorpires17&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorpires17&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
