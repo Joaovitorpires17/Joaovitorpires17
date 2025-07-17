@@ -1,5 +1,5 @@
 <h1 align="center">
-   João Vitor De Souza Pires
+   João Vitor De Souza Pires | 🏳️‍🌈 LGBTQIA+ com orgulho 
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 > 👨‍💻 Estudante de **Sistemas de Informação** na **UNA**  
 > 🚀 Explorando **Front-end**, **Análise de Dados** e **Scrum**  
-> 🌍 Baseado em **Ibirité - MG** | 🏳️‍🌈 LGBTQIA+ com orgulho  
+> 🌍 Residente em **Ibirité - MG - Brasil**  
 > 🧠 Pensamento analítico, criatividade visual e paixão por tecnologia
 
 ---
